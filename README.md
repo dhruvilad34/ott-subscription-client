@@ -73,15 +73,3 @@ Ensure the backend is running on http://localhost:8080
 
 Repository Name: acc-subscription-backend
 
----
-
-## Author
-
-Name: Dhruvi Lad  
-GitHub Username: dhruvilad34
-
----
-
-## License
-
-This project is licensed under the MIT License.
